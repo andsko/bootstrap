@@ -6,7 +6,7 @@ To get started, check out [http://getbootstrap.com](http://getbootstrap.com)!
 
 
 
-## Quick start
+## Quick start and
 
 Three quick start options are available:
 
